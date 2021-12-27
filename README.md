@@ -6,14 +6,14 @@ The Third-party Sensors connected to LEGO MINDSTORMS Robot Inventor and LEGO SPI
 ### How to Use With LEGO Education SPIKE or LEGO MINDSTORMS Robot Inventor
 
 1. Open the LEGO Education SPIKE or LEGO MINDSTORMS Robot Inventor Software.
-2. Insert the sensor and read the data of the simulate corresponding sensor
+2. Insert the sensor to Hub and read the data 
 3. Use its data to create and enjoy it
 
 
 
 ### Supported Sensors
 
-Sensors that are supported in SPIKED Prime and Robot Inventor.
+Sensors that are supported in SPIKE Prime and Robot Inventor.
 
 1. The Touch key sensor(一路按键模块)
 2. The Sound sensor(声音模块)
